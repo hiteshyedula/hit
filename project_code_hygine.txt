@@ -1,0 +1,26 @@
+C:\Users\admin\automatio\guvizenproject>pylint app.py
+************* Module app
+app.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+app.py:12:0: C0303: Trailing whitespace (trailing-whitespace)
+app.py:20:0: C0301: Line too long (103/100) (line-too-long)
+app.py:21:0: C0301: Line too long (103/100) (line-too-long)
+app.py:46:0: C0303: Trailing whitespace (trailing-whitespace)
+app.py:48:0: C0301: Line too long (103/100) (line-too-long)
+app.py:52:0: C0301: Line too long (119/100) (line-too-long)
+app.py:57:0: C0301: Line too long (116/100) (line-too-long)
+app.py:63:0: C0301: Line too long (105/100) (line-too-long)
+app.py:67:0: C0301: Line too long (112/100) (line-too-long)
+app.py:71:0: C0301: Line too long (109/100) (line-too-long)
+app.py:75:0: C0301: Line too long (126/100) (line-too-long)
+app.py:79:0: C0301: Line too long (131/100) (line-too-long)
+app.py:82:0: C0301: Line too long (132/100) (line-too-long)
+app.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+app.py:7:0: C0115: Missing class docstring (missing-class-docstring)
+app.py:13:4: C0116: Missing function or method docstring (missing-function-docstring)
+app.py:45:4: C0116: Missing function or method docstring (missing-function-docstring)
+app.py:52:8: C0103: Variable name "createQueryBtn" doesn't conform to snake_case naming style (invalid-name)
+app.py:56:8: C0103: Variable name "cancelBtn" doesn't conform to snake_case naming style (invalid-name)
+app.py:82:8: C0103: Variable name "createBtn" doesn't conform to snake_case naming style (invalid-name)
+
+------------------------------------------------------------------
+Your code has been rated at 5.33/10 (previous run: 5.00/10, +0.33)
